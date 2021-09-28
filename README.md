@@ -4,6 +4,14 @@
 
 ## Commands List
 
+### Help / H / CmdList / CommandsList
+```
+%%Help
+%%H
+%%CommandsList
+%%CmdList
+```
+Just gives you a link to this page, since I don't have approval for my bot to send whispers.
 
 ### BU / BlacklistUser
 ```
