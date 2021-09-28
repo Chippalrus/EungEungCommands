@@ -1,5 +1,5 @@
-# EungEung(응응)Commands Directory
-- A directory list of commands avaliable for Quiescent application
+# (응응) EungEung Commands Directory
+- A directory list of double percent sign (%%) commands avaliable for Quiescent streaming application for Chippalrus
 - Only avaliable to Mods on the channel
 
 ## Commands List
