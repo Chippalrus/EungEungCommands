@@ -1,4 +1,5 @@
 # EungEung(응응)Commands Directory
+- A directory list of commands avaliable for Quiescent application
 - Only avaliable to Mods on the channel
 
 ## Commands List
