@@ -5,7 +5,7 @@
 ## Commands List
 
 
-### BU / BlacklisUser
+### BU / BlacklistUser
 ```
 %%BU SomeUsername
 %%BlacklistUser SomeUsername
